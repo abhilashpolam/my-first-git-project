@@ -1,1 +1,33 @@
-ECHO is on.
+h2{
+    color:blue;
+    font-size:30px;
+    text-align:center;
+    background-color:yellow;
+    border:2px solid red;
+    padding:10px;
+    margin:20px;
+    border-radius:15px;
+    font-family:Arial, sans-serif;
+    box-shadow:2px 2px 5px grey;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    word-spacing:5px;
+    line-height:1.5;
+    text-decoration:underline;
+    text-shadow:1px 1px 2px grey;
+    opacity:0.9;
+    transition:all 0.3s ease;
+    cursor:pointer;
+    z-index:10;
+    position:relative;
+    display:inline-block;
+    width:80%;
+    height:auto;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    background-image:linear-gradient(to right, yellow, orange);
+    background-clip:text;
+    -webkit-background-clip:text;
+    color:transparent;
+}
